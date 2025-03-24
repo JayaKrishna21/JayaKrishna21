@@ -5,6 +5,14 @@ I enjoy exploring data, building machine learning models, and applying AI to sol
 
 ---
 
+## 👨‍💻 About Me
+- 🎓 Master’s in Data Science @ Kent State University
+- 💻 Skilled in Python, SQL, R, Flask, MongoDB, Docker
+- 📊 Interested in Machine Learning, Data Analysis, and AI Applications
+- 🎸 I can play guitar, love movies, and enjoy traveling!
+
+---
+
 ## 💻 Tech Stack
 
 ### 🧩 Programming & Core Concepts
@@ -34,3 +42,37 @@ I enjoy exploring data, building machine learning models, and applying AI to sol
   <img src="https://img.shields.io/badge/Deep%20Learning-FF0000?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/NLP-9C27B0?style=for-the-badge&logo=google&logoColor=white" />
 </p>
+
+---
+
+## 🛠️ Projects
+- 🔍 **Intelligent Traffic Management System** – Helmet compliance & number plate detection using AI  
+- 📊 **Traditional Data Analysis Project** – Data visualization and insights using Excel  
+- 🧠 **NLP Text Classifier** – Built a model for text classification with Flask backend  
+
+---
+
+## 📊 GitHub Stats
+![Jaya Krishna’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect
+- 💼 LinkedIn: [Your LinkedIn URL]
+- 📧 Email: your.email@example.com
+
+---
+
+## ✨ Bonus Section
+
+### 🎯 Currently Learning
+- Advanced Data Visualization using Power BI & Tableau
+- Deepening knowledge in NLP and Model Deployment
+
+### 📈 Visitor Count
+![Visitor Badge](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue)
+
+### 💡 Favorite Quote
+> “Strive not to be a success, but rather to be of value.” – *Albert Einstein*
