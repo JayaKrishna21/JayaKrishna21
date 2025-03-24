@@ -46,26 +46,27 @@ I enjoy exploring data, building machine learning models, and applying AI to sol
 ---
 
 ## 🛠️ Projects
-- 🔍 **Intelligent Traffic Management System** – Helmet compliance & number plate detection using AI  
-- 📊 **Traditional Data Analysis Project** – Data visualization and insights using Excel  
-- 🧠 **NLP Text Classifier** – Built a model for text classification with Flask backend  
 
----
+- 🔍 **Intelligent Traffic Management System**  
+  Helmet compliance & number plate detection using AI.
 
-## 📊 GitHub Stats
-![Jaya Krishna’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+- 🧪 **PIMA Diabetic Detection**  
+  Machine learning model to predict diabetes using PIMA dataset.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+- 📰 **Fake News Detection**  
+  Identified and classified fake news using NLP and machine learning.
+
+- 🏡 **Boston Housing Price Prediction**  
+  Regression model to predict housing prices using the Boston dataset.
+
 
 ---
 
 ## 📫 Let's Connect
-- 💼 LinkedIn: [Your LinkedIn URL]
-- 📧 Email: your.email@example.com
+- 💼 LinkedIn: https://www.linkedin.com/in/jayakrishna-gudla/
+- 📧 Email: jkrishna.gudla@gmail.com
 
 ---
-
-## ✨ Bonus Section
 
 ### 🎯 Currently Learning
 - Advanced Data Visualization using Power BI & Tableau
