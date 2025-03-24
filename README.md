@@ -1,5 +1,7 @@
+
 # I Welcome to My GitHub Profile!
-Hi there! I'm *[Your Name]*, a passionate developer, Al enthusiast, and cloud practitioner. I love building scalable Al applications, exploring LLM architectures, and optimizing machine learning models.
+Hi there! I'm *[Your Name]*, a passionate developer, Al enthusiast, and cloud practitioner
+I love building scalable Al applications, exploring LLM architectures, and optimizing machine learning models.
 ## § Tech Stack
 ###
 Programming & Core Concepts
@@ -28,3 +30,23 @@ Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /
 Machine%20Learning-FF6F00?style=for-the-badge&logo=m|flow&logoColor=white" /
 <img src="https://img.shields.io/badge/
 Deep%20Learning-FF0000?style=for-the-badge&logo=pytorch&logoColor=white" />
+
+
+
+###
+09. AI & Machine Learning
+<p align="left">
+<img src="https://img.shields.io/badge/
+Machine%20Learning-FF6F00?style=for-the-badge&logo=m|flow&logoColor=white" /
+<img src="https://img.shields.io/badge/
+Deep%20Learning-FF0000?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/
+TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /
+<img src="https://img.shields.io/badge/
+PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+< p>
+### Ill Large Language Models (LLMs)
+<p align="left" >
+<img src="https://img.shields.io/badge/
+GPT-005571?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/
+BERT-1F425F?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/
+LLaMA-FF4500?s
