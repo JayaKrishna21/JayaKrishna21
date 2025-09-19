@@ -1,80 +1,70 @@
-# 👋 Hi, I'm Jaya Krishna Gudla  
+# 👋 Hi, I'm Jaya Krishna Gudla
 
-🎓 Master’s Student in **Data Science** @ Kent State University (GPA: 3.83 / 4.0)  
-💻 AI/ML Intern @ **NorthStar Impact Solutions** | Ex-ML Intern @ **AspectO Technologies**  
-📍 Kent, OH | 📧 [jkrishna.gudla@gmail.com](mailto:jkrishna.gudla@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/jayakrishna-gudla/)  
-
----
-
-## 🚀 About Me  
-I’m a Data Science enthusiast with hands-on experience in **Machine Learning, NLP, LLMs, and Cloud-based AI workflows**.  
-I enjoy building **end-to-end applications** — from data ingestion pipelines to AI deployment — that solve real-world problems.  
-
-💡 **Currently working on:**  
-- Automating ESG/BRSR data pipelines using **AWS Lambda + LLMs**  
-- Enhancing fact-checking systems with **RAG pipelines and metadata verification**  
-- Expanding my skills in **Power BI, Tableau, and Generative AI**  
+🎓 Master’s Student in **Data Science** @ Kent State University (GPA 3.83 / 4.0)  
+💻 **AI/ML Intern** @ NorthStar Impact Solutions | Former ML Intern @ AspectO Technologies  
+📍 Kent, OH | [📧 Email](mailto:jkrishna.gudla@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/jayakrishna-gudla/)
 
 ---
 
-## 🛠️ Tech Stack  
+## 🚀 About Me
+Data Science enthusiast with a strong foundation in **machine learning, NLP, LLMs, and cloud engineering**.  
+I enjoy creating **end-to-end AI solutions**—from automated data pipelines to production deployments—that bring measurable business value.
+
+Currently:
+- Building **LLM-powered ESG/BRSR data pipelines** on AWS (Lambda, S3, SNS/SQS)
+- Strengthening **RAG and metadata-verification** techniques for real-time fact-checking
+- Exploring advanced **visualization tools (Power BI, Tableau)** and **Generative AI**
+
+---
+
+## 💡 Core Skills
 
 **Languages & Tools**  
-`Python` · `SQL` · `R` · `Java (basic)` · `Flask` · `Docker` · `Git`  
+`Python` · `SQL` · `R` · `Java (basic)` · `Flask` · `Docker` · `Git/GitHub`  
 
-**Cloud & Platforms**  
-`AWS (Lambda, S3, RDS, SQS, SNS, EC2)` · `MLflow`  
+**Cloud & DevOps**  
+`AWS (Lambda, S3, RDS, SQS, SNS, EC2)` · `MLflow` · CI/CD fundamentals  
 
-**AI & ML**  
-`Regression` · `Classification` · `NLP` · `LLMs (Gemini, Hugging Face)` · `RAG` · `Transformers`  
-
----
-
-## 📂 Featured Projects  
-
-- 🔍 **Fake News Detection (NLP + LLM Integration)**  
-   End-to-end misinformation detection pipeline using ML classifiers + Gemini LLM validation.  
-   *Tech:* Python, Flask, Docker, Gemini API  
-
-- 📚 **Library Management System**  
-   Full-stack web app with role-based login, CRUD operations, and return tracking.  
-   *Tech:* Python, Flask, SQLite, Bootstrap  
-
-- 🤖 **Automated Metadata & Source Verification**  
-   LLM + Web evidence pipeline for validating metadata with ~35% accuracy boost.  
-   *Tech:* Python, Gemini API  
-
-- 💬 **Chat-with-RAG**  
-   RAG-based chatbot with **95% retrieval precision** and **40% improvement in query satisfaction**.  
-   *Tech:* Streamlit, FAISS, Hugging Face LLMs, Groq API  
-
-- 🚦 **Intelligent Traffic Management System** *(Published @ IEEE)*  
-   AI-driven helmet compliance, traffic violation detection, and number plate recognition.  
+**AI & Data Science**  
+`Machine Learning` · `NLP` · `LLMs (Gemini, Hugging Face)` · `RAG` · `Transformers`  
+`Regression & Classification` · `Unsupervised Learning` · `Data Structures & Algorithms`
 
 ---
 
-## 🏆 Achievements & Certifications  
-- Published Paper: *“Intelligent Traffic Management System”* — IEEE ICEECT, 2024  
-- 🎖️ Google Data Analytics Professional Certification (Coursera)  
-- 🎖️ SQL Basic – HackerRank  
-- 🎖️ NPTEL: Data Science for Engineers  
-- 🎯 AWS AI Practitioner (in progress)  
+## 📂 Highlight Projects
+
+| Project | Tech | Impact |
+|---------|------|-------|
+| **Fake News Detection (NLP + LLM)** | Python · Gemini API · Flask · Docker | Built a hybrid ML + LLM pipeline to detect misinformation, improving credibility scoring and enabling deployment-ready service. |
+| **Automated Metadata & Source Verification** | Python · Gemini API | Automated 100 % of manual metadata checks; boosted verification accuracy by ~35 % using web scraping + LLM analysis. |
+| **Chat-with-RAG** | Streamlit · FAISS · Hugging Face LLMs · Groq API | Delivered a document-QA bot with 95 % retrieval precision and ~40 % higher query satisfaction. |
+| **Library Management System** | Python · Flask · SQLite · Bootstrap | Built a full-stack app with role-based access, CRUD operations, and return tracking. |
+| **Intelligent Traffic Management System (IEEE)** | YOLO · TensorFlow | Published research on AI-driven helmet compliance, traffic violation, and license plate detection. |
+
+*(View detailed repos & code samples on my [GitHub profile](https://github.com/JayaKrishna21))*  
 
 ---
 
-## 📈 GitHub Stats  
+## 🏆 Achievements & Certifications
+- Published Paper: *Intelligent Traffic Management System* — IEEE ICEECT 2024  
+- Google Data Analytics Professional (Coursera)  
+- SQL Basic (HackerRank)  
+- Data Science for Engineers (NPTEL)  
+- AWS AI Practitioner *(in progress)*  
 
+---
+
+## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JayaKrishna21&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayaKrishna21&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JayaKrishna21&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayaKrishna21&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 ---
 
-## 🌐 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/jayakrishna-gudla/)  
-- 📧 [Email](mailto:jkrishna.gudla@gmail.com)  
+## 🌐 Connect
+[💼 LinkedIn](https://www.linkedin.com/in/jayakrishna-gudla/) • [📧 Email](mailto:jkrishna.gudla@gmail.com)
 
 ---
 
-⭐ *“Strive not to be a success, but rather to be of value.” – Albert Einstein*  
+> *“Strive not to be a success, but rather to be of value.” – Albert Einstein*
